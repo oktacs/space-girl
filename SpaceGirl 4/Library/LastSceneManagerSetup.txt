@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Octa/Downloads/Candy Galaxy/Assets/Scenes/MainScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
